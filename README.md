@@ -37,6 +37,6 @@ Example :
        ononononono obobobo obobob o bob bo
        ononononono obobobo obobob o bob bo
        ononononono obobobo obobob o bob bo "
-    module-tags="Qualidade | Carne | Picanha"
+    module-tags="Tags | Tags | Tags"
 </course-trail>
 ```
