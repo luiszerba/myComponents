@@ -28,7 +28,7 @@ Example :
     progress-amount="45%"
     progress-remaining="1 hora"
     progress-time-text="4 módulos"
-    trail-title="Qualidade da Carne"
+    trail-title="Title"
     trail-module-link=""
     module-description="ononononono obobobo obobob o bob bo
       ononononono obobobo obobob o bob bo ononononono obobobo
