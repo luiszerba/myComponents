@@ -1,6 +1,6 @@
 # myComponents
 
-Trailhead Component - Inside this folder there is a little project using custom-tag HTML5 , I-ve created a component called <course-trail> to be used as a element inside a page. This element is a box similar to the trails of trailhead (https://trailhead.salesforce.com/trails)
+Trailhead Component - Inside this folder there is a little project using custom-tag HTML5, this project is a HTML5 custom element to create trail box inside the page, Reference : (https://trailhead.salesforce.com/trails)
 
 
 <table>
