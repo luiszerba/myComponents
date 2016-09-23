@@ -4,6 +4,7 @@
 
     var hover = this.getAttribute('hover');
     var logoImgHref = this.getAttribute('logoImgHref');
+    var logoImgStyle = this.getAttribute('logoImgStyle');
     var progressAmount = this.getAttribute('progress-amount');
     var progressRemaining = this.getAttribute('progress-remaining');
     var progressTimeText = this.getAttribute('progress-time-text');
@@ -32,6 +33,7 @@
 
     var imgElement = document.createElement ('img');
     imgElement.src = logoImgHref;
+    imgElement.style = logoImgStyle;
     divBoxHeaderLogoImg.appendChild(imgElement);
     divBoxHeaderColor.appendChild(divBoxHeaderLogoImg);
 
